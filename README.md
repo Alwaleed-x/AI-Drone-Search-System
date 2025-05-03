@@ -49,10 +49,11 @@ This project was developed as a graduation capstone to address the challenges of
 ---
 
 ## 🧑‍💻 Contributors
+-
+- **Alwaleed Alshammari**
 - Faisal Al-anzi
 - Meshal Al-anzi
 - Abdulaziz Al-anzi
-- **Alwaleed Alshammari**
 - Ahmad Alatawie
 
 Supervised by **Dr. Mohammed Al-Atwi**, University of Tabuk
